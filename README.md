@@ -1,5 +1,5 @@
 ## SSavi
-### PPT : [Ssavi.pptx]([Ssavi.pptx](https://github.com/apej88/Project/files/13174449/Ssavi.pptx))
+### PPT : [Ssavi.pptx](https://github.com/apej88/Project/files/13174449/Ssavi.pptx)
 - Django와 Database를 이용하여 로그인, 회원가입 기능을 구현하여 만든 홈페이지
 - Spotify의 API를 이용하여 사용자가 선호하는 장르의 앨범을 추천해주고, 최신 음악의 앨범, 자신의 선호 장르에 맞는 곡들을 추천한다.
 - 앨범 안의 트랙들의 상세 정보, 그 곡들의 audio feature를 분석하고 현재 트랙 장르의 최신곡 100곡의 audio feature 평균을 비교한다.
